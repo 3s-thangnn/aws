@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AWS-Web.config Connection String" description="AWS Connection String used in web.config by the application to access the database." defaultValue="Data Source=dimo.coisyzxo0p2y.us-west-2.rds.amazonaws.com;Initial Catalog=Author;user id=sa;password=12345678;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tien\.tm\\Documents\\Visual\ Studio\ 2015\\Projects\\AWSDemo\\AWSDemo\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AWS']/@connectionString" />
+  </parameter>
+</parameters>

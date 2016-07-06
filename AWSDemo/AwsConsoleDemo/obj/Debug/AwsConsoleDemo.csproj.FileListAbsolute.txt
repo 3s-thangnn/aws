@@ -1,0 +1,14 @@
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AwsConsoleDemo.exe.config
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AwsConsoleDemo.exe
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AwsConsoleDemo.pdb
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AWSSDK.Core.dll
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AWSSDK.EC2.dll
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AWSSDK.S3.dll
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AWSSDK.SimpleDB.dll
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AWSSDK.Core.xml
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AWSSDK.EC2.xml
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AWSSDK.SimpleDB.xml
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\bin\Debug\AWSSDK.S3.xml
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\obj\Debug\AwsConsoleDemo.csprojResolveAssemblyReference.cache
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\obj\Debug\AwsConsoleDemo.exe
+C:\Users\tien.tm\Documents\Visual Studio 2015\Projects\AWSDemo\AwsConsoleDemo\obj\Debug\AwsConsoleDemo.pdb

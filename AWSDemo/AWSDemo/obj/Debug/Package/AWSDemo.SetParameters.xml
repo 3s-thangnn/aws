@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/" />
+  <setParameter name="AWS-Web.config Connection String" value="Data Source=dimo.coisyzxo0p2y.us-west-2.rds.amazonaws.com;Initial Catalog=Author;user id=sa;password=12345678;Integrated Security=True" />
+</parameters>
